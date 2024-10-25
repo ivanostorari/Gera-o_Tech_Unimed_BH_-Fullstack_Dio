@@ -1,0 +1,14 @@
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\bin\Debug\net8.0\Abstraindo jogo RPG Usando OO.exe
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\bin\Debug\net8.0\Abstraindo jogo RPG Usando OO.deps.json
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\bin\Debug\net8.0\Abstraindo jogo RPG Usando OO.runtimeconfig.json
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\bin\Debug\net8.0\Abstraindo jogo RPG Usando OO.dll
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\bin\Debug\net8.0\Abstraindo jogo RPG Usando OO.pdb
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.dll
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\refint\Abstraindo jogo RPG Usando OO.dll
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.pdb
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\Abstraindo jogo RPG Usando OO.genruntimeconfig.cache
+C:\Users\Casa\Desktop\Wanderson\Abstraindo jogo RPG Usando OO\obj\Debug\net8.0\ref\Abstraindo jogo RPG Usando OO.dll
